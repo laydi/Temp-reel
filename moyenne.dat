@@ -1,0 +1,38 @@
+#somme = 182512, moyenne = 1825.12 avec  "1" thread
+1825.12
+#somme = 183657, moyenne = 1836.57 avec  "2" thread
+1836.57 2
+#somme = 200288, moyenne = 2002.88 avec  "3" thread
+2002.88 3
+#somme = 178945, moyenne = 1789.45 avec  "4" thread
+1789.45  4
+#somme = 230548, moyenne = 2305.48 avec  "5" thread
+2305.48 5
+#somme = 240056, moyenne = 2400.56 avec  "6" thread
+2400.56 6
+#somme = 245605, moyenne = 2456.05 avec  "7" thread
+2456.05 7
+#somme = 254017, moyenne = 2540.17 avec  "8" thread
+2540.17 8
+#somme = 253798, moyenne = 2537.98 avec  "9" thread
+2537.98 9
+#somme = 257525, moyenne = 2575.25 avec  "10" thread
+2575.25 10 
+#somme = 257337, moyenne = 2573.37 avec  "11" thread
+2573.37 11
+#somme = 258567, moyenne = 2585.67 avec  "12" thread
+2585.67 12
+#somme = 258069, moyenne = 2580.69 avec  "13" thread
+2580.69 13
+#somme = 258692, moyenne = 2586.92 avec  "14" thread
+2586.92 14
+#somme = 258645, moyenne = 2586.45 avec  "15" thread
+2586.45 15
+#somme = 258489, moyenne = 2584.89 avec  "16" thread
+ 2584.89 16
+
+ 
+
+
+
+
